@@ -1,0 +1,16 @@
+public static void main(String[] args) {
+        int a= 3; //fant
+        int b= 5; // jogurt
+        System.out.println("a = "+a);
+        System.out.println("b = "+b);
+
+        a=a+b; // 8
+        b=a-b;  //3
+        a=a-b; //5
+
+        System.out.println("a = "+a);
+        System.out.println("b = "+b);
+
+
+
+    }
