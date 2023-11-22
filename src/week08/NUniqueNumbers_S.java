@@ -2,7 +2,7 @@ package week08;
 
 import java.util.Arrays;
 
-public class NUniqueNumbers {
+public class NUniqueNumbers_S {
     /*
     Array - N unique integers that sum up to 0
     Write a function that given an integer N (1 < N < 100), returns an array
